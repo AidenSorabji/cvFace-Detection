@@ -1,5 +1,5 @@
 # cv.Face Detection
-Basic facial recognition in python using [opencv](https://github.com/opencv/opencv).
+Basic facial recognition in python using [OpenCV](https://github.com/opencv/opencv).
 
 ## Installation
 
