@@ -6,10 +6,8 @@ Basic facial recognition in python using [opencv](https://github.com/opencv/open
 
 1. Clone the repository:
 
-`git clone https://github.com/AidenSorabji/cvFace-Detection`
-
+```git clone https://github.com/AidenSorabji/cvFace-Detection```
 2. Create a virtual environment (.venv), open terminal/command prompt and type the following command:
 
-`pip install opencv-python`
-
+```pip install opencv-python```
 3. Run code
