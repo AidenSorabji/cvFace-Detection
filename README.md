@@ -12,7 +12,9 @@ git clone https://github.com/AidenSorabji/cvFace-Detection
 pip install opencv-python
 ```
 3. Run code
-
+```
+python main.py
+```
 ## Contributions
 - [Aiden Sorabji](https://github.com/aidensorabji)
 - [OpenCV](https://github.com/opencv/opencv)
