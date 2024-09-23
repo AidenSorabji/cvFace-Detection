@@ -15,6 +15,10 @@ pip install opencv-python
 ```
 python main.py
 ```
+
+> [!NOTE]  
+> If OpenCV is not detected as a module, create a virtual environment (preferably .venv), re-install OpenCV, and try running the code again.
+
 ## Contributions
 - [Aiden Sorabji](https://github.com/aidensorabji)
 - [OpenCV](https://github.com/opencv/opencv)
