@@ -1,5 +1,5 @@
 # cv.Face Detection
-<img src="https://github.com/AidenSorabji/cvFace-Detection/blob/experimental-branch/example-image.png?raw=true">
+<img src="https://github.com/AidenSorabji/cvFace-Detection/blob/main/example-image.png?raw=true">
 
 Basic facial recognition in python using [OpenCV](https://github.com/opencv/opencv).
 
